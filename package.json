@@ -1,0 +1,19 @@
+{
+  "name": "website-mongodb",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "simple-get": "2.0.0",
+    "express": "3.2.5",
+    "jade": "0.30.0",
+    "mongodb": "^2.2.25",
+    "monk": "^4.0.0",
+    "node-schedule": "^1.2.4",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "uuid": "latest",
+    "mongoose": "latest"
+  }
+}
